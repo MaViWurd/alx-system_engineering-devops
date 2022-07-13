@@ -14,7 +14,7 @@
 ## Structure
    Projects list is here:
    
-   ### 0x00-shell_basics
+   ### [0x00-shell_basics](./0x00-shell_basics)
       Basic shell commands training : ls, cd, pwd, chmod, rm, mkdir, rmdir ...
    ### 0x01. Shell, permissions
       Shell permission commands training: chmod, chown, chgrp ...
